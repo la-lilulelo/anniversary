@@ -33,7 +33,7 @@ def generate_card(
 
     # Load a font
     # Make sure 'arial.ttf' or a similar font file is in the fonts/ directory
-    font_choices = ['Dreamingland', 'Wasted-Vindey']
+    font_choices = ['Dreamingland', 'Wasted-Vindey', 'Cavernous Free']
     font = random.choice(font_choices)
     
     font_path = os.path.join("fonts", font+".ttf")
