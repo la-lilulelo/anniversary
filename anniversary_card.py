@@ -68,7 +68,8 @@ def generate_card(
     pixel_art_dir = "assets"
     # List pixel art files you have (make sure they are small pixel icons)
     pixel_art_files = ["animal-7764712_1280.png", "cookie-9181659_1280.png", "heart-7764716_1280.png", "leg-9181658_1280.png", "pixel-3316924_1280.png",
-                       "pixel-cells-3699332_1280.png", "pixel-cells-3974182_1280.png", "raccoon-7723089_1280.png", "shooting-star-147722_1280.png", "star-152893_1280.png"]
+                       "pixel-cells-3699332_1280.png", "pixel-cells-3974182_1280.png", "raccoon-7723089_1280.png", "shooting-star-147722_1280.png", "star-152893_1280.png",
+                       "animal-7024108_1280.png", "art-7423289_1280.png", "cake-9124665_1280.png", "pixel-art-7738623_1280.png", "soup-7238060_1280.png"]
 
     # Load pixel arts into memory
     scale_factor = 0.05
